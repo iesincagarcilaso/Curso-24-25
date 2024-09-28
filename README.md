@@ -4,7 +4,6 @@
 
 ### 1º DAW
 
-- [Tejero Cañero, Joaquin](https://github.com/joaquintejero92) :octocat: `joaquintejero92`
 - [Clavero Sánchez, Carlos](https://github.com/CarlosCS06) :octocat: `CarlosCS06`
 - [Carrasco López, Adrián](https://github.com/LightOracle67) :octocat: `LightOracle67`
 - [Delgado Ruz, Adrián](https://github.com/FiksaKoud) :octocat: `FiksaKoud`
@@ -15,9 +14,10 @@
 - [Jiménez Polonio, Antonio Jesús](https://github.com/TonaJzp) :octocat: `TonaJzp`
 - [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
 - [Martínez Montaño, Manuel](https://github.com/Akalo06) :octocat: `Akalo06`
-- [Mihai, Alexandru](https://github.com/alexxmihai24) :octocat: `alexxmihai24`
-- [Requena, Carlos](https://github.com/Solrak25) :octocat: `Solrak25`
+- [Mihai, Alexandru Mihai](https://github.com/alexxmihai24) :octocat: `alexxmihai24`
+- [Requena Bujalance, Carlos](https://github.com/Solrak25) :octocat: `Solrak25`
 - [Reyes Pedraza, Alfonso](https://github.com/alfonso964) :octocat: `alfonso964`
+- [Tejero Cañero, Joaquin](https://github.com/joaquintejero92) :octocat: `joaquintejero92`
 - [Vergillos Ruiz, Alfredo](https://github.com/4lwep) :octocat: `4lwep`
 
 
