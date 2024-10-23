@@ -27,9 +27,10 @@
 
 - [Caballero Ruiz, Adrián](https://github.com/adrii05) :octocat: `adrii05`
 - [Cabeza Reinoso, José](https://github.com/jply-xyz) :octocat: `jply-xyz`
-- [Carmona Arrabal, David](https://github.com/davidcarmonaa) :octocat: `davidcarmonaa`
+- [Carmona Arrabal, David](https://github.com/davidcarmonaarrabal) :octocat: `davidcarmonaarrabal`
 - [Carrasco Carmona, Carlos](https://github.com/meigemn) :octocat: `meigemn`
 - [Espejo Rosal, Rafael](https://github.com/naptime4u) :octocat: `naptime4u`
+- [Hermo López, Juan Francisco](https://github.com/juanitte) :octocat:`juanitte`
 - [Priego López, Antonio](https://github.com/CopyCatMe) :octocat: `CopyCatMe`
 - [Rivas Cano, Ismael](https://github.com/Ismael-Rvas) :octocat: `Ismael-Rvas`
 - [Ruano Ruiz, Ana](https://github.com/arr1790) :octocat: `arr1790`
