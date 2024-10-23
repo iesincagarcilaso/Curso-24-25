@@ -31,6 +31,7 @@
 - [Carrasco Carmona, Carlos](https://github.com/meigemn) :octocat: `meigemn`
 - [Espejo Rosal, Rafael](https://github.com/naptime4u) :octocat: `naptime4u`
 - [Hermo López, Juan Francisco](https://github.com/juanitte) :octocat:`juanitte`
+- [Pastor Zurita, Emilio](https://github.com/EmilioPastor) :octocat: `EmilioPastor`
 - [Priego López, Antonio](https://github.com/CopyCatMe) :octocat: `CopyCatMe`
 - [Rivas Cano, Ismael](https://github.com/Ismael-Rvas) :octocat: `Ismael-Rvas`
 - [Ruano Ruiz, Ana](https://github.com/arr1790) :octocat: `arr1790`
