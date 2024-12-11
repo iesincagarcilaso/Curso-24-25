@@ -37,4 +37,5 @@
 - [Priego López, Antonio](https://github.com/CopyCatMe) :octocat: `CopyCatMe`
 - [Rivas Cano, Ismael](https://github.com/Ismael-Rvas) :octocat: `Ismael-Rvas`
 - [Ruano Ruiz, Ana](https://github.com/arr1790) :octocat: `arr1790`
+- [Ruz Gil, José Luis](https://github.com/) :octocat: ``
 - [Serrano Portillo, Daniel Euripides](https://github.com/danieu0902) :octocat: `danieu0902`
