@@ -10,7 +10,6 @@
 - [Delgado Ruz, Adrián](https://github.com/FiksaKoud) :octocat: `FiksaKoud`
 - [García Cárdenas, Juan](https://github.com/JGC998) :octocat: `JGC998`
 - [Gómez Luque-Romero, Francisco](https://github.com/PacoGomezLR) :octocat: `PacoGomezLR`
-- [Granados Vazquez, Antonio](https://github.com/Antonio-Gravaz) :octocat: `Antonio-Gravaz`
 - [Jiménez Olmo, María Teresa](https://github.com/divinegarden) :octocat: `divinegarden`
 - [Jiménez Polonio, Antonio Jesús](https://github.com/TonaJzp) :octocat: `TonaJzp`
 - [Madrid Pérez, Jesús](https://github.com/JesusMadridPerez) :octocat: `JesusMadridPerez`
