@@ -28,6 +28,7 @@
 - [Cabeza Reinoso, José](https://github.com/jply-xyz) :octocat: `jply-xyz`
 - [Carmona Arrabal, David](https://github.com/davidcarmonaarrabal) :octocat: `davidcarmonaarrabal`
 - [Carrasco Carmona, Carlos](https://github.com/meigemn) :octocat: `meigemn`
+  [Castro López, Miguel Ángel](https://github.com/miguelcaslp) :octocat: `miguelcaslp`
 - [Espejo Rosal, Rafael](https://github.com/naptime4u) :octocat: `naptime4u`
 - [Hermo López, Juan Francisco](https://github.com/juanitte) :octocat:`juanitte`
 - [Maldonado Cobo, Miguel Ángel](https://github.com/miguel040404) :octocat: `miguel040404`
